@@ -10,7 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "source-map-builder": "0.0.7",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
@@ -42,6 +41,7 @@
     "semver": "^5.5.0",
     "shelljs": "^0.7.6",
     "source-map": "^0.7.0",
+    "source-map-builder": "0.0.7",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.8",
     "vue-loader": "^13.3.0",
